@@ -1,1 +1,1 @@
-# Weather-App-Salesforce
+# Electronic Device Rental System-Salesforce
